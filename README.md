@@ -17,7 +17,7 @@
 
 ### 🔹 1) کلون کردن ریپازیتوری  
 ```bash
-git clone https://github.com/USERNAME/GamePingChecker.git
+git clone https://github.com/javadubu/GamePingChecker.git
 cd GamePingChecker
 ```
 
