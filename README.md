@@ -29,7 +29,7 @@ python src/ping_checker.py
 ```bash
 results/logs.csv
 
-⸻
+---
 
 ```bash
 🎮 Checking FIFA Ultimate Team servers...
@@ -47,5 +47,5 @@ Reply from 159.153.64.175: bytes=32 time=115ms TTL=49
 Reply from 159.153.64.175: bytes=32 time=111ms TTL=49
 
 
-⸻
+---
 
