@@ -1,0 +1,8 @@
+{
+  "name": "Valorant",
+  "servers": [
+    {"region": "EU", "ip": "162.249.72.1"},
+    {"region": "NA", "ip": "192.207.0.1"},
+    {"region": "APAC", "ip": "103.62.48.1"}
+  ]
+}

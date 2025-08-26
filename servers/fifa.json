@@ -1,0 +1,8 @@
+{
+  "name": "FIFA Ultimate Team",
+  "servers": [
+    {"region": "EU-West", "ip": "185.60.112.157"},
+    {"region": "US-East", "ip": "159.153.64.175"},
+    {"region": "Asia", "ip": "175.45.176.3"}
+  ]
+}
